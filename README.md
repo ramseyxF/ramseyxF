@@ -2,13 +2,8 @@
 
 https://github.com/user-attachments/assets/f2e021a5-490d-4c91-8ac2-788225923e33
 
-<div align="center">
 
-<img src="https://github.com/user-attachments/assets/f2e021a5-490d-4c91-8ac2-788225923e33" width="700" alt="banner"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Senior+Talent+Acquisition+Specialist;Recruiting+AI%2FML+%26+Data+Talent;Chennai-based+Gamer+🎮;Cyclist+🚴;Learning+to+Code+🌱" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Senior+Talent+Acquisition+Specialist;Recruiting+AI%2FML+%26+Data+Talent;Chennai-based+Gamer+🎮;Cyclist+🚴;Learning+to+Code+🌱"  />
 
 </div>
 
